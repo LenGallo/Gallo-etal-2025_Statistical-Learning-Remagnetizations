@@ -18,3 +18,7 @@ This manuscript is under review in *Earth and Planetary Science Letters*
 
 ## Contents
 The Jupyter notebooks stored in this folder were created using a Python 3 kernel and are utilized to produce the figures and perform data analysis related to the study.
+
+### Run on Binder ☁️
+
+To open a cloud JupyterHub version of the notebooks in this repository and run them on Binder used the following Binder link. Note that the repository will take a long time to load as the environment is being created: ![Binder](https://mybinder.org/badge_logo.svg)
