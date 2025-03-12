@@ -14,6 +14,7 @@
 *(8) Faculdade de Ciências e Tecnologias, Universidade Federal de Goiás, Brazil.*  
 *(9) Instituto de Geociências e Ciências Exatas, Departamento de Geologia, Rio Claro (SP), Brazil.*
 
+This manuscript is under review in *Earth and Planetary Science Letters*
 
-
-
+## Contents
+The Jupyter notebooks stored in this folder were created using a Python 3 kernel and are utilized to produce the figures and perform data analysis related to the study.
