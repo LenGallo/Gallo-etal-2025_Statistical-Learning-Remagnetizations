@@ -17,12 +17,13 @@
 *(9) Instituto de Geociências e Ciências Exatas, Departamento de Geologia, Rio Claro (SP), Brazil.*
 
 
-## Contents
-This repository contains all the notebooks and code required to reproduce our analysis. Using a high-resolution geochemical dataset collected alongside the rock magnetic data, we employ a Random Forest regressor trained on the geochemical features extracted from paleomagnetic samples to accurately predict the extent of remagnetization.
+## Overview 
 
-## Overview
-In this project, we introduce a novel approach that integrates geochemical data with rock magnetic measurements. By training a Random Forest regressor on the extracted geochemical features, our method provides accurate predictions of remagnetization, offering improved insights into the associated geological processes.
-Unlike traditional machine learning methods, which often prioritize predictive accuracy, our statistical learning framework focuses on uncovering the geochemical mechanisms behind remagnetization through feature importance analysis. This approach not only yields robust predictions but also offers valuable insights into the complex processes driving remagnetization.
+In this project, we introduce a novel approach that integrates geochemical data with rock magnetic measurements. By training a Random Forest regressor on the extracted geochemical features, our method provides accurate predictions of remagnetization. Unlike traditional machine learning methods, which often prioritize predictive accuracy, our statistical learning framework focuses on uncovering the geochemical mechanisms behind remagnetization through feature importance analysis. This approach not only yields robust predictions but also offers valuable insights into the complex processes driving remagnetization.
+
+## Contents
+
+This repository contains all the notebooks and code required to reproduce our analysis. Using a geochemical dataset collected alongside rock magnetic data, we employ a Random Forest regressor trained on the geochemical features to accurately predict the extent of remagnetization.
 
 ## Repository Structure
  - Code: Detailed Jupyter notebooks that guide you through the entire analysis workflow—from data preprocessing and feature extraction to model training and evaluation.
@@ -41,6 +42,6 @@ Unlike traditional machine learning methods, which often prioritize predictive a
 3. **Run the Notebooks:**  
 Open the Jupyter notebooks in the `ml_env` environment and execute the cells sequentially to reproduce the complete analysis pipeline.
 
-### Run on Binder ☁️
+### Alternatively, run on Binder ☁️
 
 To open a cloud JupyterHub version of the notebooks in this repository and run them on Binder used the following Binder link. Note that the repository will take a long time to load as the environment is being created: ![Binder](https://mybinder.org/badge_logo.svg)
