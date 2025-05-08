@@ -1,4 +1,4 @@
-- This manuscript is currently under revision at *Earth and Planetary Science Letters*
+ - This manuscript was published in *Earth and Planetary Science Letters* in 2025:
 
 ## ***Jupyter Notebooks to accompany the paper:***
     
@@ -12,6 +12,8 @@
 Available at: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LenGallo/Gallo-etal-2025_Statistical-Learning-Remagnetizations/HEAD?urlpath=lab/tree/Code/1_ML_Model_Training_and_Visualization.ipynb)
 
 Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15260555.svg)](https://doi.org/10.5281/zenodo.15260555)
+
+Citation: Gallo, L. C., Domeier, M., Antonio, P. Y., Sapienza, F., et al. (2025). Unraveling Remagnetization Sources using Statistical Learning. Earth and planetary Science Letters, 662, 119390. https://doi.org/10.1016/j.epsl.2025.119390
 
 ## Overview 
 
