@@ -1,4 +1,4 @@
- - This manuscript was published in *Earth and Planetary Science Letters* in 2025:
+ - This manuscript was published in *Earth and Planetary Science Letters* in 2025.
 
 ## ***Jupyter Notebooks to accompany the paper:***
     
